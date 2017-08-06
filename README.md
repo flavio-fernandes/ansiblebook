@@ -1,5 +1,7 @@
 # Ansible: Up and Running (2nd edition) code samples
 
+#### evernote uuid: 033D61DD-6B2F-44DF-9C31-D1B8394BA167
+
 This repository contains code samples from [Ansible: Up and
 Running](http://ansiblebook.com), organized by book chapter.
 
